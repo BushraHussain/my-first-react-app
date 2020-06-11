@@ -6,7 +6,7 @@ function App() {
     <div>
       <h2> My first react App</h2>
    
-    Hello from Bushra :) 
+    Hello from Bushra !! Updated 
     </div>
   );
 }
